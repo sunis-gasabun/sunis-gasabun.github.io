@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page5.html",
+    "currentPage": "github.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -552,7 +552,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "首頁",
-        "order": 4
+        "order": 2
       },
       "components": [
         {
@@ -1445,11 +1445,11 @@
         }
       ]
     },
-    "page5.html": {
+    "github.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "舒妮絲優質傢飾生活館",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
