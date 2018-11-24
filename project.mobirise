@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page2.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1445,7 +1445,7 @@
         }
       ]
     },
-    "page2.html": {
+    "page5.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "舒妮絲優質傢飾生活館",
