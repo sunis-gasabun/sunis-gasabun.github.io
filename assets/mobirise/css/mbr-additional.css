@@ -1833,7 +1833,7 @@ body {
   }
 }
 .cid-rdrEZmUbFf {
-  background: linear-gradient(45deg, #fbac7f, #e5658a);
+  background: linear-gradient(45deg, #cebfaf, #e09cfa);
 }
 .cid-rdrEZmUbFf .mbr-section-subtitle {
   font-style: italic;
@@ -1842,4 +1842,7 @@ body {
 .cid-rdrEZmUbFf .mbr-section-title,
 .cid-rdrEZmUbFf .mbr-section-btn {
   text-align: center;
+}
+.cid-rdrEZmUbFf P {
+  color: #400d0d;
 }
