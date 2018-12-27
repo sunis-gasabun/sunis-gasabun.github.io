@@ -135,7 +135,7 @@ body {
   background-color: #95dcf4 !important;
 }
 .bg-success {
-  background-color: #f7ed4a !important;
+  background-color: #efe98b !important;
 }
 .bg-info {
   background-color: #82786e !important;
@@ -208,23 +208,23 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #f7ed4a !important;
-  border-color: #f7ed4a !important;
-  color: #3f3c03 !important;
+  background-color: #efe98b !important;
+  border-color: #efe98b !important;
+  color: #6c670f !important;
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success.focus,
 .btn-success.active {
-  color: #3f3c03 !important;
-  background-color: #eadd0a !important;
-  border-color: #eadd0a !important;
+  color: #6c670f !important;
+  background-color: #e6dc48 !important;
+  border-color: #e6dc48 !important;
 }
 .btn-success.disabled,
 .btn-success:disabled {
-  color: #3f3c03 !important;
-  background-color: #eadd0a !important;
-  border-color: #eadd0a !important;
+  color: #6c670f !important;
+  background-color: #e6dc48 !important;
+  border-color: #e6dc48 !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -372,22 +372,22 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background: none;
-  border-color: #d2c609;
-  color: #d2c609;
+  border-color: #e3d831;
+  color: #e3d831;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus,
 .btn-success-outline.active {
-  color: #3f3c03;
-  background-color: #f7ed4a;
-  border-color: #f7ed4a;
+  color: #6c670f;
+  background-color: #efe98b;
+  border-color: #efe98b;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
-  color: #3f3c03 !important;
-  background-color: #f7ed4a !important;
-  border-color: #f7ed4a !important;
+  color: #6c670f !important;
+  background-color: #efe98b !important;
+  border-color: #efe98b !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -470,7 +470,7 @@ body {
   color: #ff3366 !important;
 }
 .text-success {
-  color: #f7ed4a !important;
+  color: #efe98b !important;
 }
 .text-info {
   color: #82786e !important;
@@ -497,7 +497,7 @@ a.text-secondary:focus {
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #d2c609 !important;
+  color: #e3d831 !important;
 }
 a.text-info:hover,
 a.text-info:focus {
@@ -1763,7 +1763,18 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rdrkBOw70s {
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/bma-147-2000x1515.jpg");
+}
+.cid-rdrkBOw70s .mbr-text,
+.cid-rdrkBOw70s .mbr-section-btn {
+  text-align: center;
+}
+.cid-rdrkBOw70s .mbr-text,
+.cid-rdrkBOw70s .mbr-section-btn B {
+  color: #400d0d;
+}
+.cid-rdrkBOw70s DIV {
+  color: #d26cf9;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
