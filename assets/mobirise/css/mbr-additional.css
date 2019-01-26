@@ -3974,8 +3974,12 @@ body {
 }
 .cid-reu5bQW9OL P {
   color: #073b4c;
+  text-align: left;
 }
 .cid-reu5bQW9OL .card-title {
+  text-align: center;
+}
+.cid-reu5bQW9OL .card-title P {
   text-align: center;
 }
 .cid-reux25cVcp {
